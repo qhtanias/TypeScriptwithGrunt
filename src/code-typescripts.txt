@@ -1,3 +1,8 @@
 node -v
 mpm -v 
 npm init
+sudo npm install grunt --save -dev
+sudo npm install grunt-cli
+npm install
+npm install lodash
+npm install typescript --save-dev

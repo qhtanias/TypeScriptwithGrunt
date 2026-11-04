@@ -24,3 +24,5 @@ npm audit fix --force
 pm install typescript --save-dev
 sudo npm install grunt --save-dev
 npm install grunt-cli -g
+tsc --target ES5 -- experimentalDecorators
+tsc --target ES5 -- experimentalDecorators --ignoreConfig

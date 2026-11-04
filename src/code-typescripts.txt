@@ -5,4 +5,12 @@ sudo npm install grunt --save -dev
 sudo npm install grunt-cli
 npm install
 npm install lodash
+npm i --save -dev @type/node
 npm install typescript --save-dev
+npm i --save -dev @types/node
+npm init
+npm install --save -dev typescript
+npm istall -save -dev @type/node
+npm install -D @types/react
+npm install -save -dev @type/react
+npm install --save-dev @types/react
